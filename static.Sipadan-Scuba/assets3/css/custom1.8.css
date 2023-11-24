@@ -1,0 +1,1212 @@
+
+
+/* Main navigation */
+header.sticky .main-menu > ul > li span > a {
+  color: #444;
+}
+header.sticky .main-menu > ul > li span:hover > a {
+  opacity: 1;
+  color: #ed4a4a;
+}
+/* account menu */
+header.sticky ul.account-menu > li span > a {
+  color: #444 !important;
+}
+header.sticky ul.account-menu > li span:hover > a {
+  opacity: 1!important;
+  color: #ed4a4a!important;
+}
+
+.main-menu ul ul li a:hover {
+  color: #ed4a4a !important;
+}
+.main-menu ul ul li:hover > a {
+  background-color: #f9f9f9;
+  color: #ed4a4a !important;
+  padding-left: 18px;
+}
+
+/*-------- 1.1 Typography --------*/
+.main_title_2 span em {
+  background-color: #fc5b62;
+}
+
+.main_title_3 span em {
+  background-color: #ed4a4a;;
+}
+
+/*General links color*/
+a {
+  color: #ed4a4a;
+}
+a:hover, a:focus {
+  color: #000;
+  text-decoration: none;
+  outline: none;
+}
+
+/*-------- 1.2 Buttons --------*/
+a.btn_1,
+.btn_1 {
+  background: #fc5b62;
+}
+a.btn_1.outline,
+.btn_1.outline {
+  border: 2px solid #ed4a4a;
+  color: #ed4a4a;
+}
+
+a.btn_map:hover {
+  color: #ed4a4a;
+}
+
+a.btn_map_in,
+.btn_map_in {
+  background: #ed4a4a;
+}
+
+/*-------- 1.3 Structure --------*/
+.hero_in a.btn_photos:hover {
+  color: #ed4a4a;
+}
+
+/* Footer */
+footer ul li a:hover {
+  color: #ed4a4a;
+  opacity: 1;
+}
+footer ul.links li a:hover:after {
+  opacity: 1;
+  color: #ed4a4a;
+}
+
+/* Newsletter footer*/
+#newsletter input[type='submit'] {
+  background-color: #ed4a4a;
+}
+
+.checkbox {
+	margin:5px 10px;
+}
+
+fieldset.edit-booking-field {
+	padding:5px 10px;
+	background-color:#f5f5f5;
+}
+
+.modal-dialog {
+	margin-top: 75px;
+}
+
+/*============================================================================================*/
+/* 2.  CONTENT */
+/*============================================================================================*/
+#custom-search-input input[type='submit'] {
+  background-color: #ed4a4a;
+}
+
+.custom-search-input-2 input[type='submit'] {
+  background-color: #ed4a4a;
+}
+
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #ed4a4a !important;
+}
+
+a.box_news:hover h4 {
+  color: #ed4a4a;
+}
+
+.box_grid a.wish_bt.liked:after {
+  color: #ed4a4a;
+}
+.box_grid a.wish_bt:hover.liked:after {
+  color: #ed4a4a;
+}
+
+.box_list a.wish_bt.liked:after {
+  color: #ed4a4a;
+}
+.box_list a.wish_bt:hover.liked:after {
+  color: #ed4a4a;
+}
+
+.layout_view a:hover {
+  color: #ed4a4a;
+}
+
+.switch-field label:hover {
+  color: #ed4a4a;
+}
+
+.secondary_nav ul li a:hover {
+  color: #ed4a4a;
+}
+.secondary_nav ul li:last-child a {
+  background-color: #ed4a4a;
+  color: #fff;
+}
+
+a.btn_infobox_detail:before:hover {
+  color: #ed4a4a;
+}
+
+.btn_infobox_get_directions, a.btn_infobox_phone {
+  color: #ed4a4a;
+}
+
+.contact_info ul li h4 {
+  color: #ed4a4a;
+}
+
+.search_bar_error input[type='submit'] {
+  background-color: #ed4a4a;
+}
+
+.form_title h3 strong {
+  background-color: #ed4a4a;
+}
+
+.grid ul li figcaption a:hover, .grid ul li figcaption a:focus {
+  color: #ed4a4a;
+}
+
+ul#cat_nav li a:hover, ul#cat_nav li a#active, ul#cat_nav li a.active {
+  color: red;
+}
+
+.list_articles ul li a:hover {
+  color: #ed4a4a
+}
+
+#toTop:hover {
+  background-color: #0d6efd;
+}
+
+.accordion_2 .card-header h5 a i.indicator {
+  color: red;
+}
+
+#cookie-bar .cb-policy {
+  background: #ed4a4a;
+}
+
+.applyBtn.btn.btn-sm.btn-primary {
+  background-color: #ed4a4a;
+}
+
+/*-------- to change the default dark blue color --------*/
+
+a.btn_1:hover,
+.btn_1:hover {
+  background: #0d6efd;
+  color: #fff;
+}
+
+a.btn_1.full-width.purchase:hover,
+.btn_1.full-width.purchase:hover {
+  background-color: #0d6efd;
+}
+
+a.btn_1.outline:hover,
+.btn_1.outline:hover {
+  background: #0d6efd;;
+  color: #fff;
+  border-color: #0d6efd;;
+}
+
+a.btn_map_in:hover,
+.btn_map_in:hover {
+  background: #ffc107;
+  color: #fff;
+}
+
+.score strong {
+  background-color: #ffc107;
+  color: #fff;
+  line-height: 1;
+  -webkit-border-radius: 5px 5px 5px 0;
+  -moz-border-radius: 5px 5px 5px 0;
+  -ms-border-radius: 5px 5px 5px 0;
+  border-radius: 5px 5px 5px 0;
+  padding: 10px;
+  display: inline-block;
+}
+
+/* promo tag */
+.box_detail .price .promo {
+    float: right;
+    margin-top: -5px;
+}
+
+.promo span {
+    display: inline-block;
+    position: relative;
+    top: 7px;
+    margin-right: 8px;
+    font-size: 12px;
+    font-size: .75rem;
+    text-align: right;
+    line-height: 1.1;
+    font-weight: 500;
+}
+
+.promo span em {
+    display: block;
+    font-weight: 400;
+    font-size: 11px;
+    font-size: .6875rem;
+}
+
+.promo strong {
+  background-color: #fc5b62;
+  color: #fff;
+  line-height: 1;
+  -webkit-border-radius: 5px 5px 5px 0;
+  -moz-border-radius: 5px 5px 5px 0;
+  -ms-border-radius: 5px 5px 5px 0;
+  border-radius: 5px 5px 5px 0;
+  padding: 10px;
+  display: inline-block;
+}
+/* end promo tag */
+
+/*-------- 2.5 Login/register --------*/
+#login_bg, #register_bg {
+  background: url(../img/banner_login.jpg) center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+}
+
+#register_bg {
+  background: url(../img/banner_register.jpg) center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+/*-------- end to change the default dark blue color --------*/
+
+
+.banner {
+  background: url(../img/banner_bg_desktop.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 100%;
+  height: 420px;
+  margin-bottom: 60px;
+  position: relative;
+}
+
+.call_section {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/bg_call_section.jpg) center center no-repeat fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 400px;
+  padding: 5% 0;
+}
+
+
+/*-------- BANNERS --------*/
+.hero_in.tours:before {
+  background: url(../img/banner_tours.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.tours .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.holidays:before {
+  background: url(../img/banner_holidays.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.holidays .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.transfers:before {
+  background: url(../img/banner_transfers.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.transfers .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.cars:before {
+  background: url(../img/banner_cars.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.cars .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.tours_detail {
+    height: 380px;
+}
+.hero_in.tours_detail:before {
+  background: url(../img/tours_detail_banner.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.tours_detail .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.holidays_detail {
+    height: 380px;
+}
+.hero_in.holidays_detail:before {
+  background: url(../img/holidays_detail_banner.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.holidays_detail .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.transfers_detail {
+    height: 380px;
+}
+.hero_in.transfers_detail:before {
+  background: url(../img/transfers_detail_banner.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.transfers_detail .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.cars_detail {
+    height: 380px;
+}
+.hero_in.cars_detail:before {
+  background: url(../img/cars_detail_banner.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.cars_detail .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.bg1:before {
+  background: url(../img/bg_1.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.bg1 .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.bg2:before {
+  background: url(../img/bg_2.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.bg2 .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.bg3:before {
+  background: url(../img/bg_3.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.bg3 .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.bg4:before {
+  background: url(../img/bg_4.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.bg4 .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.bg5:before {
+  background: url(../img/bg_5.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.bg5 .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.bg6:before {
+  background: url(../img/bg_6.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.bg6 .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.solo:before {
+  background: url(../img/category/solo.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.solo .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.paylater:before {
+  background: url(../img/category/paylater.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.paylater .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.firefly:before {
+  background: url(../img/category/firefly.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.firefly .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.diving:before {
+  background: url(../img/category/diving.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.diving .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.adventure:before {
+  background: url(../img/category/adventure.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.adventure .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.daycruise:before {
+  background: url(../img/category/daycruise.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.daycruise .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.fishing:before {
+  background: url(../img/category/fishing.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.fishing .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.historical:before {
+  background: url(../img/category/historical.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.historical .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.localfood:before {
+  background: url(../img/category/localfood.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.localfood .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.climbing:before {
+  background: url(../img/category/climbing.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.climbing .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.rafting:before {
+  background: url(../img/category/rafting.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.rafting .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.rivercruise:before {
+  background: url(../img/category/rivercruise.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.rivercruise .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+.hero_in.sightseeing:before {
+  background: url(../img/category/sightseeing.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.sightseeing .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.snorkeling:before {
+  background: url(../img/category/snorkeling.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.snorkeling .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.teambuilding:before {
+  background: url(../img/category/teambuilding.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.teambuilding .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.hero_in.wildlife:before {
+  background: url(../img/category/wildlife.jpg) center center no-repeat;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.hero_in.wildlife .wrapper {
+  background-color: black;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+
+/*-------- END BANNERS --------*/
+
+/*-------- CUSTOM STYLE --------*/
+button.genericbtn {
+	-moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    color: #fff;
+    font-weight: 600;
+    font-size: 14px;
+    font-size: 0.875rem;
+    border: 0;
+    padding: 0 25px;
+    height: 50px;
+    cursor: pointer;
+    outline: none;
+    -webkit-border-radius: 0 3px 3px 0;
+    -moz-border-radius: 0 3px 3px 0;
+    -ms-border-radius: 0 3px 3px 0;
+    border-radius: 0 3px 3px 0;
+    background-color: #fc5b62;
+    margin-right: -1px;
+    margin:20px 30px;
+}
+
+button.genericbtn.green {
+	background-color: #ed4a4a !important;
+}
+
+i.datepickericon {
+	font-size: 21px;
+    font-size: 1.3125rem;
+    position: absolute;
+    left: auto !important;
+    right: 20px;
+    top: 34px;
+    color: #ccc;
+    width: 25px;
+    height: 25px;
+    display: block;
+    font-weight: 400 !important;
+}
+
+i.dropdownicon {
+	font-size: 21px;
+    font-size: 1.3125rem;
+    position: absolute;
+    left: auto !important;
+    right: 20px;
+    top: 5px;
+    color: #ccc;
+    width: 25px;
+    height: 25px;
+    display: block;
+    font-weight: 400 !important;
+}
+
+.pull-right {
+	float:right;
+}
+.pull-left {
+	float:left;
+}
+
+.alert .btn-close {
+	float:left;
+}
+
+/* colors */
+.color-white {
+	color:white !important;
+}
+.color-black {
+	color:black !important;
+}
+.color-red {
+	color:red !important;
+}
+.color-green {
+	color: #ed4a4a !important;
+}
+/* sabah booking green*/
+.color-sbgreen{ 
+	color: #ed4a4a !important;
+}
+/* sabah booking blue*/
+.color-sbblue {
+	color:#0093df !important;
+}
+.color-blue {
+	color:blue !important;
+}
+.color-orange {
+	color:orange !important;
+}
+.color-pink {
+	color:#fc5b62 !important;
+}
+.grayBG {
+	background-color: lightgrey !important;
+}
+
+.bg-light {
+    padding: 10px 15px;
+    margin-bottom: 10px;
+    background: #fcfcfc;
+    border: 1px solid #e5e5e5;
+}
+
+.form-group em {
+	color:red;
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #e9ecef;
+    opacity: 1;
+}
+
+.paymentStatus{
+	color:white;
+	font-size:50px !important;
+}
+.paymentStatus small {
+	font-size:14px !important;
+}
+
+.custom-infobox {
+	background-color: #e5e5e5;
+	padding: 15px;
+	border: 1px solid black;
+}
+
+.priceBox {
+	overflow: hidden;
+    position: relative;
+    padding: 25px;
+    background-color: #ededed;
+    border-radius: 10px;
+}
+
+#testimonial blockquote {
+	background-color: #ebebeb;
+    padding: 20px;
+    margin-right: 25px;
+    font-size:12px;
+}
+
+#testimonial blockquote p {
+	margin-bottom:10px;
+}
+
+.rounded-x {    
+	border-radius: 50%!important;
+}
+
+.styled-select#currency-selector select option {
+    color: #555;
+}
+
+.desc td {
+	border-width: 0.5px !important;
+	padding: 0 15px 0;
+}
+
+/*-------- END CUSTOM STYLE --------*/
+
+/*-------- OVERWRITE ORIGINAL STYLE --------*/
+
+/* add bullets */
+.terms-div ol {
+	list-style: auto !important;
+}
+.terms-div ol li{
+	margin-left: 15px !important;
+}
+
+
+/* main title span */
+.main_title_2 span {
+	width: auto !important;
+    height: auto !important;
+    background-color: unset !important;
+    display: inline !important;
+}
+
+/* timetable in itinerary */
+.cbp_tmtimeline > li .cbp_tmtime {
+    display: block;
+    width: 23%;
+    padding-right: 80px;
+    padding-top: 12px;
+}
+
+/* enquiry red button */
+.btn_1.full-width.purchase {
+    background-color: #fc5b62;
+}
+
+a.btn_2, .btn_2 {
+    border: none;
+    color: #fff;
+    background: #fc5b62;
+    outline: none;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    padding: 15px 30px;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+    line-height: 1;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -webkit-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+}
+a.btn_2:hover,
+.btn_2:hover {
+  background: #dd4b39;
+  color: #eee;
+}
+
+
+/* hotel locator */
+.zone-highlight {
+    background-color: rgba(224, 211, 67, 0.5);
+}
+
+
+/* filter/fast search */
+#filters_col {
+	background-color: #327fc1 !important;
+}
+#filters_col a,#filters_col label {
+	color:white;
+}
+#filters_col .search_btn {
+	border-color: #ed4a4a;
+}
+.container_check input:checked ~ .checkmark {
+    background-color: #ed4a4a;
+}
+
+/* tour list*/
+.box_grid .wrapper {
+	padding: 0 20px 10px 20px !important;
+}
+.box_grid .wrapper h3 {
+	height: 50px;
+    font-size: 18px;
+}
+.box_grid .wrapper p {
+	height: 60px;
+    font-size: 12px;
+}
+
+/* intro picture */
+/* .box_grid figure {
+	margin-bottom: auto;
+    height: 210px;
+} */
+.box_grid figure {
+	margin-bottom: 10px;
+	height: 180px;
+}
+.box_grid figure a img {
+	left: 0;
+    top: 0;
+    transform: none;
+    position: unset;
+}
+.box_grid figure:hover a img {
+	left: 0;
+    top: 0;
+    transform: scale(1.1);
+}
+.box_grid figure:hover .read_more {
+  opacity: 1;
+  visibility: visible;
+  transform: none;
+}
+.box_grid figure .read_more{
+	margin-top: -25px;
+    transform: none;
+}
+/* .box_grid figure .read_more:hover {
+    transform: none;
+} */
+
+/*pagination*/
+.pagination {
+	--bs-pagination-bg: #fff;
+	--bs-pagination-hover-bg: #e9ecef;
+	--bs-pagination-active-bg: #ed4a4a;
+	--bs-pagination-disabled-bg: #fff;
+	
+	--bs-pagination-color: #ed4a4a;
+	--bs-pagination-border-color: #dee2e6;
+	--bs-pagination-hover-color: #ed4a4a;
+	--bs-pagination-hover-border-color: #dee2e6;
+    --bs-pagination-focus-color: #ed4a4a;
+    --bs-pagination-active-color: #fff;
+    --bs-pagination-active-border-color: #ed4a4a;
+    --bs-pagination-disabled-color: #6c757d;
+    --bs-pagination-disabled-border-color: #dee2e6;
+}
+
+/* Main Menu (Navigation) */
+.main-menu > ul > li span > a {
+    color: #fff;
+    padding: 0 18px 15px 8px;
+    font-size: 14px;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.main-menu ul ul li a {
+    font-size: 12px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #555;
+    border-bottom: 1px solid #ededed;
+    display: block;
+    padding: 15px 10px;
+    line-height: 1;
+}
+
+/* Search Box in homepage */
+.nice-select .list {
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: 0 0 0 1px rgb(68 68 68 / 11%);
+    box-sizing: border-box;
+    margin-top: 4px;
+    opacity: 0;
+    overflow: hidden;
+    padding: 0;
+    pointer-events: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    transform-origin: 50% 0;
+    transform: scale(0.75) translateY(-25px);
+    transition: all 0.2s cubic-bezier(0.5, 0, 0, 1.25), opacity 0.15s ease-out;
+    z-index: 9;
+    /* height: 18vh; */
+    overflow: auto;
+}
+
+/* listing page of every service*/
+.box_grid figure div.score {
+	position: absolute;
+    top: 15px;
+    right: 15px;
+    z-index: 9;
+}
+
+/* group price bar */
+figure {
+	margin: 0 auto;
+	max-width: 100%;
+	position: relative;
+}
+@keyframes expand {
+	from {width: 0%;}
+	to {width: 100%;}
+}
+@media screen and (min-width: 768px) {
+	@keyframes expand {
+		from {width: 0%;}
+		to {width: calc(100% - 75px);}
+	}
+}
+.barChart {
+	width: 100%;
+}
+.barBlock {
+	display: block;
+	height: 50px;
+	color: #fff;
+	float: left;
+	background-color: #05CFFC;
+	position: relative;
+	overflow: hidden;
+	opacity: 1;
+	transition: opacity, .3s ease;
+	cursor: pointer;
+}
+.barBlock:nth-of-type(2),
+.legend li:nth-of-type(2):before {
+	background-color: #0BAEF4;
+}
+.barBlock:nth-of-type(3),
+.legend li:nth-of-type(3):before {
+	background-color: #118EEC;
+}
+.barBlock:nth-of-type(4),
+.legend li:nth-of-type(4):before {
+	background-color: #166DE4;
+}
+.barBlock:nth-of-type(5),
+.legend li:nth-of-type(5):before {
+	background-color: #1C4CDC;
+}
+.barBlock:nth-of-type(6),
+.legend li:nth-of-type(6):before {
+	background-color: #0035D3;
+}
+.barBlock:hover {
+	opacity: .65;
+}
+.barValue {
+	display: block;
+	line-height: 0.5em;
+	position: absolute;
+	top: 20%;
+	left: 10%;
+}
+.x-axis {
+	text-align: center;
+	padding: .5em 0 2em;
+}
+.y-axis {
+	height: 20px;
+	transform: translate(-32px,170px) rotate(270deg);
+	position: absolute;
+	left: 0;
+}
+.legend {
+	margin: 0 auto;
+	padding: 0;
+	font-size: .9em;
+}
+.legend li {
+	display: inline-block;
+	padding: .25em 1em;
+	line-height: 1em;
+}
+.legend li:before {
+	content: "";
+	margin-right: .5em;
+	display: inline-block;
+	width: 8px;
+	height: 8px;
+	background-color: #334D5C;
+}
+@media screen and (min-width: 768px) {
+	.barBlock {
+		font-size: 1em;
+	}
+	.legend {
+		width: 50%;
+	}
+}
+
+#icon_drag_mobile {
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  background: url(https://static.sabahbooking.com/assets3/img/drag_icon.svg) 0 0 no-repeat;
+  width: 50px;
+  height: 30px;
+  opacity: 0.6;
+  z-index: 99;
+  display: none;
+}
+@media (max-width: 767px) {
+  #icon_drag_mobile {
+    display: block;
+  }
+}
+
+#carousel_slider.flexslider ul.slides li img {
+  -webkit-transform: scale(1);
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -o-transform: scale(1);
+  transform: scale(1);
+  opacity: 0.5;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -webkit-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+
+
+.is-invalid {
+  border-color: red;
+}
+.invalid-feedback {
+  color: red;
+  display: none;
+  margin-top: 5px;
+}
+
+
+
+		
+		
+/*-------- END OVERWRITE ORIGINAL STYLE --------*/
