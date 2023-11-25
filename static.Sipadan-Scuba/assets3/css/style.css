@@ -485,6 +485,16 @@ ul, ol {
   display: block;
   margin: auto;
 }
+
+ .icon-money:before {
+        content: "\e001"; /* Unicode character for the money icon */
+        /* Additional styling if needed */
+    }
+
+    .fs-1 {
+        font-size: 1.5em; /* Example font size */
+        /* Additional styling if needed */
+    }
 @media (max-width: 767px) {
   .main_title_2 {
     margin-bottom: 10px;
