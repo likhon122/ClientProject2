@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Admin-Card-Add</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-witdh, initial-scale=1.0" />
+    <link type="text/css" rel="stylesheet" href="css/style.css" />
+    <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap"
+      rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Raleway:wght@600;700&display=swap"
+      rel="stylesheet" />
+  </head>
+
+  <body>
+    <section id="sidebar">
+      <div class="sidebar-brand">
+        <h2><i class="fa fa-desktop"></i> <span>Websblog</span></h2>
+      </div>
+      <div class="sidebar-menu">
+        <ul>
+          <li>
+            <a href="#"><i class="fa fa-desktop"></i> <span>Dashboard</span></a>
+          </li>
+          <li>
+            <a href="#"><i class="fa fa-users"></i> <span>Customers</span></a>
+          </li>
+          <li>
+            <a href="project.html"
+              ><i class="fa fa-file"></i> <span>Projects</span></a
+            >
+          </li>
+          <li>
+            <a href="#"><i class="fa fa-file-pdf-o"></i> <span>Orders</span></a>
+          </li>
+          <li>
+            <a href="#"><i class="fa fa-money"></i> <span>Income</span></a>
+          </li>
+          <li>
+            <a href="#"><i class="fa fa-user"></i> <span>Account</span></a>
+          </li>
+          <li>
+            <a href="#"><i class="fa fa-sign-out"></i> <span>Logout</span></a>
+          </li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="main-content">
+      <header>
+        <div class="header-left">
+          <h2 class="toggle-btn"><i class="fa fa-bars"></i> Dashboard</h2>
+        </div>
+        <div class="header-left header-serach">
+          <div class="serach-par">
+            <input class="search" type="text" placeholder="Search Here..." />
+            <i class="fa fa-search"></i>
+          </div>
+        </div>
+        <div class="header-left header-profile">
+          <img src="images/user.png" class="img-responsive" />
+          <h3>Webs Blog</h3>
+          <p>Admin</p>
+        </div>
+        <div class="clear"></div>
+      </header>
+      <div class="clear"></div>
+    </section>
+    <div class="clear"></div>
+    <div class="crateCard">
+      <div class="cardmain">
+        <div class="title">
+          <h1>Add new card</h1>
+        </div>
+        <form>
+          <div>
+            <label for="title">Title</label>
+            <input type="text" id="title" placeholder="Title" />
+          </div>
+          <div>
+            <label for="time">Time</label>
+            <input type="text" id="time" placeholder="Time"/>
+          </div>
+          <div>
+            <label for="oldPrice">Old Price</label>
+            <input type="text" id="oldPrice" placeholder="OldPrice"/>
+          </div>
+          <div>
+            <label for="discountPrice">Discount Price</label>
+            <input type="text" id="discountPrice" placeholder="Discount Price"/>
+          </div>
+          <div>
+            <label for="uploadImage">Upload Image</label>
+            <input type="file" id="uploadImage" />
+          </div>
+          <div>
+            <label for="description">Description</label>
+            <textarea name="description" id="description" cols="30" rows="5" placeholder="Card Description"></textarea>
+          </div>
+          <div class="buttonSubmit">
+            <input type="submit">
+          </div>
+        </form>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/external.js"></script>
+  </body>
+</html>
